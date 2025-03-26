@@ -1,6 +1,6 @@
-## Hi there 👋
+## Howdy, nerds 🙌
 
-# 💫 About Me:
+# 🤠 Meet the Main Character:
 🚀 Freelancer life = 50% coding, 50% questioning my choices<br>💻 Python trainer<br>🧑‍💻Web Dev<br>🔰Ex-Project Engineer @Schwing Stetter India<br>📈 Trying to make ElectroV the next big thing<br>🤖 Learning AI ‘cause why not?
 
 
@@ -27,7 +27,7 @@
 [![](https://visitcount.itsvg.in/api?id=Treedip&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy me a coffee) 
+  [![BuyMeACoffee]Buy me a coffee) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
