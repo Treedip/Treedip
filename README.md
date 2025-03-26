@@ -1,7 +1,7 @@
 ## Howdy, nerds 🙌
 
 # 🤠 Meet the Main Character:
-🚀 Freelancer life = 50% coding, 50% questioning my choices<br>💻 Python trainer<br>🧑‍💻Web Dev<br>🔰Ex-Project Engineer @Schwing Stetter India<br>📈 Trying to make ElectroV the next big thing<br>🤖 Learning AI ‘cause why not?
+🚀 Freelancer life = 50% coding, 50% questioning my choices<br>💻 Python Trainer<br>🧑‍💻Web Dev<br>🔰Ex-Project Engineer @Schwing Stetter India<br>📈 Trying to make ElectroV the next big thing<br>🤖 Learning AI ‘cause why not?
 
 
 ## 🌐 Socials:
