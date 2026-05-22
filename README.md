@@ -1,7 +1,7 @@
-## Howdy, nerds 🙌
+## Hey there, fellow debugger 🙌
 
-# 🤠 Meet the Main Character:
-🚀 Freelancer life = 50% coding, 50% questioning my choices<br>👨🏼‍💻 Automation Tester<br>💻 Python Trainer<br>🧑‍💻 Web Dev<br>🔰 Ex-Project Engineer @Schwing Stetter India<br>📈 Trying to make ElectroV the next big thing<br>🤖 Learning AI ‘cause why not?
+# 🤠 Meet the Human Behind the Bugs:
+🚀 QA by profession, debugger by instinct<br>🤖 Teaching machines how to test stuff so I can pretend to relax<br>🐍 Python + AI arc currently loading...<br>📱 Breaking apps across platforms since day one<br>🔰 Ex-Project Engineer @Schwing Stetter India<br>⚡ Sprint survivor | Build destroyer | Edge-case enjoyer<br>💀 "Finding bugs before production finds me."
 
 
 ## 🌐 Socials:
